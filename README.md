@@ -1,5 +1,9 @@
 # vue3-demo
 
+## Curso completo
+[AQUÍ](https://www.youtube.com/watch?v=aIbd_3mQEtA&list=PLTg7E2ObeSjYkcQ7QzqON-aQ2BnvwWFm0&index=9)
+
+
 ## Project setup
 ```
 npm install
